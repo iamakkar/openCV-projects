@@ -1,4 +1,5 @@
-1. Virtual Paint: 
-Detecting Color and using colored marker to draw virtually. 
-2. Document Scanner:
-Detecting Documents and outlining them.
+#Spam Email Classifier
+
+A simple spam email classifier using Natural Language Processing, pandas, numpy and sklearn.
+
+![alt text]()
